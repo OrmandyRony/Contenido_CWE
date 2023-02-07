@@ -1,0 +1,3 @@
+El ladron es: Ernesto
+El ladron escapo a: Londres
+El complice es: Berthold
